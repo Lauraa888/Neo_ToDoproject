@@ -1,0 +1,21 @@
+.test_style {
+    text-align: center;
+    color: lightgrey;
+}
+
+.ui.container .h1 {
+    
+    color: rgb(182, 113, 238);
+    text-shadow: 2px 3px 2px #83cc0e;
+}
+
+
+.ui.segment p{
+    font-size: 18px;
+    color: rgb(58, 34, 34);
+    font-weight: 700;
+    
+}
+
+
+
